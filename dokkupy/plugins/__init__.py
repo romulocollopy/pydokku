@@ -2,6 +2,7 @@ from .apps import AppsPlugin  # noqa
 from .checks import ChecksPlugin  # noqa
 from .config import ConfigPlugin  # noqa
 from .domains import DomainsPlugin  # noqa
+from .git import GitPlugin  # noqa
 from .ps import PsPlugin  # noqa
 from .ssh_keys import SSHKeysPlugin  # noqa
 from .storage import StoragePlugin  # noqa
